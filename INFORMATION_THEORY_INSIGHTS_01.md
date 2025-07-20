@@ -1,3 +1,7 @@
+Derived from: https://arxiv.org/pdf/1805.11965
+
+---
+
 ### Big Picture: What is Information Theory?
 
 At its heart, information theory is about quantifying **surprise** or **uncertainty**.
